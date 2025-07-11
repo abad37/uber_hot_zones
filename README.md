@@ -10,6 +10,9 @@ Détecter les "hot zones" (zones à forte demande) pour les conducteurs Uber à 
 - Visualisation sur carte interactive (Plotly)
 - Dashboard interactif pour navigation temporelle
 
+## 📥 Données
+
+Les fichiers de données utilisés dans ce projet peuvent être téléchargés ici : [📂 Lien Google Drive](Lien disponible rapidement)
 
 ## ▶️ Lancer le dashboard
 ```bash
